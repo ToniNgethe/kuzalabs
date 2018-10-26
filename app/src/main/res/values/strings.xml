@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">User Management Portal</string>
+    <string name="loading_text">Please wait</string>
+    <string name="title_activity_dashboard">DashboardActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="profile">Profile</string>
+
+    <string name="select_source">Select source</string>
+    <string name="canceling">Canceling</string>
+    <string name="add_user">Add User</string>
+    <string name="full_names">Full Names</string>
+    <string name="role">Role</string>
+    <string name="save_user">Save User</string>
+</resources>

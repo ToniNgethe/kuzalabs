@@ -1,0 +1,2 @@
+include ':app', ':sweet_alerts'
+project(':sweet_alerts').projectDir = new File('library')
